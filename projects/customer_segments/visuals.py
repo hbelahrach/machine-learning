@@ -149,9 +149,9 @@ def channel_results(reduced_data, outliers, pca_samples):
 	# Color the points based on assigned Channel
 	labels = ['Hotel/Restaurant/Cafe', 'Retailer']
 	grouped = labeled.groupby('Channel')
-	for i, channel in grouped:   
+	for i, channel in grouped:
 	    channel.plot(ax = ax, kind = 'scatter', x = 'Dimension 1', y = 'Dimension 2', \
-	                 color = cmap((i-1)*1.0/2), label = labels[i-1], s=30);
+	                 color = cmap((i-1)*1.0/2), label = labels[int(i-1)], s=30);
 	    
 	# Plot transformed sample points   
 	for i, sample in enumerate(pca_samples):
