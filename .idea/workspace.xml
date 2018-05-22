@@ -3,8 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="3b517a12-2d54-4407-b43c-40540bb5ace0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/projects/smartcab/smartcab.ipynb" afterPath="$PROJECT_DIR$/projects/smartcab/smartcab.ipynb" />
-      <change beforePath="$PROJECT_DIR$/projects/smartcab/smartcab/agent.py" afterPath="$PROJECT_DIR$/projects/smartcab/smartcab/agent.py" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/cnn/cifar10-augmentation/aug_model.weights.best.hdf5" afterPath="$PROJECT_DIR$/projects/practice_projects/cnn/cifar10-augmentation/aug_model.weights.best.hdf5" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/cnn/cifar10-augmentation/cifar10_augmentation.ipynb" afterPath="$PROJECT_DIR$/projects/practice_projects/cnn/cifar10-augmentation/cifar10_augmentation.ipynb" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/cnn/cifar10-classification/cifar10_cnn.ipynb" afterPath="$PROJECT_DIR$/projects/practice_projects/cnn/cifar10-classification/cifar10_cnn.ipynb" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/cnn/cifar10-classification/model.weights.best.hdf5" afterPath="$PROJECT_DIR$/projects/practice_projects/cnn/cifar10-classification/model.weights.best.hdf5" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/cnn/transfer-learning/bottleneck_features.ipynb" afterPath="$PROJECT_DIR$/projects/practice_projects/cnn/transfer-learning/bottleneck_features.ipynb" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/imdb/IMDB_In_Keras.ipynb" afterPath="$PROJECT_DIR$/projects/practice_projects/imdb/IMDB_In_Keras.ipynb" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/imdb/IMDB_In_Keras_Solutions.ipynb" afterPath="$PROJECT_DIR$/projects/practice_projects/imdb/IMDB_In_Keras_Solutions.ipynb" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/imdb/Student_Admissions.ipynb" afterPath="$PROJECT_DIR$/projects/practice_projects/imdb/Student_Admissions.ipynb" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/naive_bayes_tutorial/Bayesian_Inference.ipynb" afterPath="$PROJECT_DIR$/projects/practice_projects/naive_bayes_tutorial/Bayesian_Inference.ipynb" />
+      <change beforePath="$PROJECT_DIR$/projects/practice_projects/naive_bayes_tutorial/Bayesian_Inference_solution.ipynb" afterPath="$PROJECT_DIR$/projects/practice_projects/naive_bayes_tutorial/Bayesian_Inference_solution.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +26,7 @@
       <file leaf-file-name="agent.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-82">
+            <state relative-caret-position="15">
               <caret line="106" column="15" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="15" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -30,8 +38,8 @@
       <file leaf-file-name="sim_improved-learning.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/logs/sim_improved-learning.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="1960" column="46" lean-forward="true" selection-start-line="1960" selection-start-column="46" selection-end-line="1960" selection-end-column="46" />
+            <state relative-caret-position="29400">
+              <caret line="1960" column="46" lean-forward="false" selection-start-line="1960" selection-start-column="46" selection-end-line="1960" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -148,6 +156,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +194,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +254,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="734" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -275,6 +282,112 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/planner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6555">
+          <caret line="441" column="68" lean-forward="false" selection-start-line="441" selection-start-column="68" selection-end-line="441" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/logs/sim_improved-learning.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29400">
+          <caret line="1960" column="46" lean-forward="false" selection-start-line="1960" selection-start-column="46" selection-end-line="1960" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/simulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4005">
+          <caret line="267" column="117" lean-forward="false" selection-start-line="267" selection-start-column="111" selection-end-line="267" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/planner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6555">
+          <caret line="441" column="68" lean-forward="false" selection-start-line="441" selection-start-column="68" selection-end-line="441" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/logs/sim_improved-learning.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29400">
+          <caret line="1960" column="46" lean-forward="true" selection-start-line="1960" selection-start-column="46" selection-end-line="1960" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/simulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4005">
+          <caret line="267" column="117" lean-forward="false" selection-start-line="267" selection-start-column="111" selection-end-line="267" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/planner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6615">
+          <caret line="441" column="68" lean-forward="false" selection-start-line="441" selection-start-column="68" selection-end-line="441" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/agent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -547,14 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/logs/sim_improved-learning.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="160" column="16" lean-forward="false" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/simulator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4005">
@@ -583,19 +688,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/logs/sim_improved-learning.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="1960" column="46" lean-forward="true" selection-start-line="1960" selection-start-column="46" selection-end-line="1960" selection-end-column="46" />
+        <state relative-caret-position="29400">
+          <caret line="1960" column="46" lean-forward="false" selection-start-line="1960" selection-start-column="46" selection-end-line="1960" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/agent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
+        <state relative-caret-position="15">
           <caret line="106" column="15" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="15" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/smartcab/smartcab/logs/sim_improved-learning.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="160" column="16" lean-forward="false" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
